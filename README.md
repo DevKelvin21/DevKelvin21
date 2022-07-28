@@ -4,13 +4,13 @@ Hi 👋 My name is Kelvin Rojas
 Full Stack Developer
 --------------------
 
-I started in programming 4 years ago, when I entered the university, I started with HTML and languages like Java, but I really found my passion in web development, currently I have knowledge in all areas of web development, from design to deployment, serverless or full server configuring vps.
+I started in programming 4 years ago, when I entered the university, I started with HTML and OOP based languages like Java, making desktop apps, but I really found my passion in web development, currently I have knowledge in all areas of web development, from frontend and backend design to deployment, serverless, vps, and kubernetes.
 
 * 🌍  I'm based in El Salvador
-* 🖥️  See my portfolio at [MyPortfolio](http://kelvinrojas.me)
+* 🖥️  See my portfolio at [MyPortfolio](https://www.kelvinrojas.me)
 * ✉️  You can contact me at [kelvinrojas66@gmail.com](mailto:kelvinrojas66@gmail.com)
-* 🚀  I'm currently working on [Voting app](http://seusapp.org)
-* 🧠  I'm learning React and Node js
+* 🚀  I'm currently working on [Voting app](https://website.seusapp.org)
+* 🧠  I'm learning Blockchain technologies.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  In my spare time I play drums in a band.
 

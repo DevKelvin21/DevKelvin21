@@ -1,10 +1,9 @@
 Hi 👋 My name is Kelvin Rojas
 =============================
 
-Full Stack Developer
+Systems Engineer | FullStack Developer
 --------------------
-
-I started in programming 4 years ago, when I entered the university, I started with HTML and OOP based languages like Java, making desktop apps, but I really found my passion in web development, currently I have knowledge in all areas of web development, from frontend and backend design to deployment, serverless, vps, and kubernetes.
+Hey there! I'm a passionate Systems Engineer with a knack for full-stack software development. I have a wealth of experience in creating awesome software solutions using a mix of JavaScript, React, and Python. I love using these technologies to build incredible applications that exceed user expectations and drive business success. I've got a proven track record of delivering top-quality software systems on time and within budget, so you can count on me to help you achieve your tech goals. Let's build something amazing together!
 
 * 🌍  I'm based in El Salvador
 * 🖥️  See my portfolio at [MyPortfolio](https://www.kelvinrojas.me)

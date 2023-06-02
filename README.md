@@ -8,10 +8,10 @@ Hey there! I'm a passionate Systems Engineer with a knack for full-stack softwar
 * 🌍  I'm based in El Salvador
 * 🖥️  See my portfolio at [MyPortfolio](https://www.kelvinrojas.me)
 * ✉️  You can contact me at [kelvinrojas66@gmail.com](mailto:kelvinrojas66@gmail.com)
-* 🚀  I'm currently working on [Appointments Today](https://appointmentstoday.net/) as SysAdmin and Developer
+* 🚀  I'm currently working on RESTful APIs using Python and Java.
 * 🧠  I'm learning Blockchain technologies.
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  In my spare time I play drums in a band.
+* ⚡  In my leisure time I play drums in a band.
 
 ### Skills
 

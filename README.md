@@ -6,8 +6,8 @@ Software Engineer
 Hey there! I'm a passionate Software Engineer with a knack for full-stack software development and Cloud Based Solutions. I have a wealth of experience in creating awesome software solutions using a mix of React, Angular, Typescript, Python, C# and Java. I love using these technologies to build incredible applications that exceed user expectations and drive business success. I've got a proven track record of delivering top-quality software systems on time and within budget, so you can count on me to help you achieve your tech goals. Let's build something amazing together!
 
 * 🌍  I'm based in El Salvador
-* 🖥️  See my portfolio at [MyPortfolio](https://kelvinrojas.netlify.app/)
-* 🚀  I'm currently working for [NICE](https://clearviewlive.com/)
+* 🖥️  See my portfolio at [My Portfolio](https://kelvinrojas.netlify.app/)
+* 🚀  I'm currently working for [Skyllful](https://www.skyllful.com)
 * 🧠  I'm learning Google Cloud Platform.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  In my leisure time I play drums in a band.
